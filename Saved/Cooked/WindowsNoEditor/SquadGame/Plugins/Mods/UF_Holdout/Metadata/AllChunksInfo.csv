@@ -1,8 +1,0 @@
-ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
-0,/Engine/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x,Texture2D,Hard,7709,None
-5900,/UF_Holdout/Gameplay/Deployables/BP_FOBRadio,Blueprint,Hard,53653,None
-0,/UF_Holdout/Gameplay/Deployables/master/BP_BaseFobCreator_Child,Blueprint,Soft From Unassigned Package? Best Guess: /UF_Holdout/Gameplay/Deployables/master/BP_BaseFobCreator_Child,8292,None
-5900,/UF_Holdout/Maps/Yehorivka/Gameplay_Layer_Data/UF_Yeho_Holdout_v1,BP_SQLayer_C,Hard,3809,None
-5900,/UF_Holdout/Maps/Yehorivka/Gameplay_Layer_Data/UF_Yehorivka_LayerTable,DataTable,Hard,1108,None
-5900,/UF_Holdout/Maps/Yehorivka/Gameplay_Layers/UF_Yeho_Holdout_v1,World,Hard,4324483,None
-0,/UF_Holdout/Settings/Maps/LevelTable,DataTable,Soft From Unassigned Package? Best Guess: /UF_Holdout/Settings/Maps/LevelTable,3019,None
